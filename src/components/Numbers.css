@@ -1,0 +1,29 @@
+.number {
+    color: #fff;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+@media screen and (max-width: 960px) {
+    .number {
+        color: #fff;
+        margin-top: 30px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
+    .number h1 {
+        margin-bottom: 30px;
+        font-size: 50px;
+    }
+    
+    .number h3 {
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+
+}

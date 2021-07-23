@@ -1,0 +1,31 @@
+
+    .photo {
+        margin: auto;
+        border: 1px solid black;
+        height: 400px;
+    }
+    .card {
+        width: 60%;
+        margin: 20px;
+    }
+
+@media screen and (max-width: 960px) {
+    .card {
+        width: 90%;
+        margin: auto;
+    }
+    .photo {
+        border: 1px solid black;
+        height: 700px;
+        margin-top: 40px;
+        margin-bottom: 20px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .photo img {
+        width: 636px;
+    }
+    .photo h1{
+        padding-top: 100px;
+    }
+}

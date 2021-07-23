@@ -1,0 +1,28 @@
+.presenter {
+    background-image: url(./images/img1.jpeg);
+    padding: 25px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+}
+
+.presenter div {
+    width: 60%;
+    margin: auto;
+    padding-bottom: 100px;
+
+}
+.presenter h1 {
+    font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: chocolate;
+}
+
+.subtitle {
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: chocolate;
+    z-index: 7;
+}

@@ -1,0 +1,13 @@
+
+.section {
+    display: flex;
+    align-content: space-between;
+    margin: auto;
+}
+@media screen and (max-width: 960px) {
+    .section {
+        display: block;
+        width: 100%;
+        margin: auto;
+    }
+}
